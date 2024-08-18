@@ -116,5 +116,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits
 
-- **Developed by**: [sijie-daiii](https://github.com/your-sijie-daiii)
+- **Developed by**: [sijie-daiii](https://github.com/sijie-daiii)
 - **Special Thanks to**: The ncurses library community and all contributors.
