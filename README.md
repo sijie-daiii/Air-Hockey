@@ -1,6 +1,7 @@
 # Air Hockey Game
 
 Welcome to the Air Hockey Game, a text-based simulation of the classic air hockey game built using C++ and the ncurses library. This project simulates a two-player air hockey game where players can control sliders (paddles) to compete against each other.
+![1](https://github.com/user-attachments/assets/77cf5777-143d-4d15-8ece-c00c5b9112e0)
 
 ## Table of Contents
 
