@@ -110,24 +110,11 @@ After building, run the game with:
 - **`util.cpp`**: Contains utility functions like random number generation.
 - **`Makefile`**: Used for compiling and linking the game.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push to your branch.
-4. Submit a pull request with a description of your changes.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
-- **Developed by**: [Your Name](https://github.com/your-username)
+- **Developed by**: [sijie-daiii](https://github.com/your-username)
 - **Special Thanks to**: The ncurses library community and all contributors.
-
----
-
-Feel free to customize the content, especially under "Credits" and "Contributing" sections, to better fit your project and team's structure. This README template should give potential users and contributors a clear understanding of your project, how to install and use it, and how they can contribute.
